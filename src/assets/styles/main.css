@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.prod-img {
+    width: 200px!important;
+    height: 200px;
+}
+
+.hero-section{
+    background-color: #ff167c;
+    color: #ffffff;
+    padding: 70px 0px;
+}
+
+.bg-main-color{
+    background-color: #ff167c!important;
+    color: #ffffff!important;
+    border-color: #ff167c!important;
+}
+
+.prod-card{
+
+}
+
+.prod-card:hover{
+    transform: scale(0.98);
+}
